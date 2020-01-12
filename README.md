@@ -1,10 +1,10 @@
 # FuzzerApp
 
-FuzzerApp is a NodeJs application to generate a set of characters configured by standard input
+FuzzerApp is a NodeJs application to generate a file with a set of words, everything is done by the standard input.
 
 ### Config
 
-FuzzerApp has a config file at ./config.js
+FuzzerApp has a config file at ./config.js with the next variables:
 
 | Variable | Meaning |
 | ------ | ------ |
