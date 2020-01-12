@@ -1,0 +1,16 @@
+{
+  "name": "fuzzer",
+  "version": "1.0.0",
+  "description": "A fuzzer sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolás",
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^0.8.0",
+    "marked-terminal": "^3.3.0"
+  }
+}
